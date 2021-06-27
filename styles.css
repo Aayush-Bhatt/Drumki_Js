@@ -66,17 +66,17 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 8px solid #404B69;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Times New Roman', cursive;
   line-height: 2;
   font-weight: 900;
   color: #7bff00;
-  text-shadow: 3px 0 #000000;
-  border-radius: 15px;
+  text-shadow: 4px 0 #000000;
+  border-radius: 17px;
   display: inline-block;
   width: 150px;
-  height: 150px;
+  height: 155px;
   text-align: center;
   margin: 10px;
   background-color: white;
