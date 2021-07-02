@@ -69,14 +69,14 @@ footer {
   border: 8px solid #404B69;
   font-size: 5rem;
   font-family: 'Times New Roman', cursive;
-  line-height: 2;
+  line-height: 3;
   font-weight: 900;
   color: #7bff00;
-  text-shadow: 4px 0 #000000;
+  text-shadow: 5px 0 #000000;
   border-radius: 17px;
   display: inline-block;
-  width: 150px;
-  height: 155px;
+  width: 155px;
+  height: 150px;
   text-align: center;
   margin: 10px;
   background-color: white;
